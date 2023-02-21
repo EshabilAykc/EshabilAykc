@@ -1,5 +1,5 @@
 ###  Hi I'm Eshabil 👋
-###  I started coding software with c# in 2018. Nowadays, I am trying to improve myself as a Front-end Developer.
+###  I started coding software with C# in 2018. Nowadays, I am trying to improve myself as a Front-end Developer.
 
 <!--
 **EshabilAykc/EshabilAykc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
